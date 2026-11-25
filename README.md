@@ -3,17 +3,18 @@
 **Desarrollador Full Stack** en [ASD Smart Audit Solutions](https://www.asdaudit.com), donde desarrollo y mantengo plataformas web para el sector de la auditoría. Ingeniero Multimedia por la Universitat de València.
 
 - 🔧 Trabajo sobre todo en **backend con Python, Django y Django REST Framework**, y **PostgreSQL**.
+- ⚙️ También participo en el desarrollo de **servicios backend en Go**.
 - 🖥️ En el frontend, con JavaScript, HTML y CSS.
 - 🤖 Integro agentes de IA en mi día a día para ser más eficiente y cuidar la calidad del código.
-- 🌱 Ahora mismo estoy aprendiendo **Go**.
 - 📍 Valencia, España.
 
 ## Tecnologías
 
 | Área | Herramientas |
 |---|---|
-| Lenguajes | Python · JavaScript · SQL · Kotlin · Java · C++ |
-| Backend y web | Django · Django REST Framework · FastAPI · HTML · CSS |
+| Lenguajes | Python · Go · JavaScript · SQL · Kotlin · Java · C++ |
+| Backend | Django · Django REST Framework · FastAPI |
+| Frontend | JavaScript · HTML · CSS |
 | Bases de datos | PostgreSQL · MySQL · MariaDB · MongoDB |
 | Móvil | Android (Kotlin, Room, Navigation Component) |
 | Herramientas | Git · Docker · AWS S3 · Scrum |
