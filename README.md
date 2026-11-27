@@ -1,5 +1,7 @@
 # Hola, soy Carlos 👋
 
+🌐 **[carlosizdo.github.io/portafolio](https://carlosizdo.github.io/portafolio/)**
+
 **Desarrollador Full Stack** en [ASD Smart Audit Solutions](https://www.asdaudit.com), donde desarrollo y mantengo plataformas web para el sector de la auditoría. Ingeniero Multimedia por la Universitat de València.
 
 - 🔧 Trabajo sobre todo en **backend con Python, Django y Django REST Framework**, y **PostgreSQL**.
@@ -29,4 +31,4 @@
 
 ## Contacto
 
-[LinkedIn](https://www.linkedin.com/in/carlosizquierdogil)
+🌐 [Portafolio](https://carlosizdo.github.io/portafolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/carlosizquierdogil)
